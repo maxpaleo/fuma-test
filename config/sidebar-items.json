@@ -8,15 +8,15 @@
       },
       {
         "label": "Changelog",
-        "href": "/docs/introduction/changelog"
+        "href": "/docs/introduction/changelog/index"
       },
       {
         "label": "Installation",
-        "href": "/docs/introduction/installation"
+        "href": "/docs/introduction/installation/index"
       },
       {
         "label": "Setup",
-        "href": "/docs/introduction/setup",
+        "href": "/docs/introduction/setup/index",
         "description": "Search for something"
       }
     ]
