@@ -4,19 +4,19 @@
     "children": [
       {
         "label": "Introduction",
-        "href": "/introduction/index"
+        "href": "/docs/introduction/index"
       },
       {
         "label": "Changelog",
-        "href": "/introduction/changelog"
+        "href": "/docs/introduction/changelog"
       },
       {
         "label": "Installation",
-        "href": "/introduction/installation"
+        "href": "/docs/introduction/installation"
       },
       {
         "label": "Setup",
-        "href": "/introduction/setup",
+        "href": "/docs/introduction/setup",
         "description": "Search for something"
       }
     ]
