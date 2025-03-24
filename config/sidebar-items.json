@@ -1,22 +1,22 @@
 [
   {
-    "group": "Changes",
+    "group": "Introduction",
     "children": [
       {
-        "label": "Home",
-        "href": "#"
+        "label": "Introduction",
+        "href": "/introduction/index"
       },
       {
-        "label": "Inbox",
-        "href": "#"
+        "label": "Changelog",
+        "href": "/introduction/changelog"
       },
       {
-        "label": "Calendar",
-        "href": "#"
+        "label": "Installation",
+        "href": "/introduction/installation"
       },
       {
-        "label": "Search",
-        "href": "#",
+        "label": "Setup",
+        "href": "/introduction/setup",
         "description": "Search for something"
       }
     ]
