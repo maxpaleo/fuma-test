@@ -1,0 +1,20 @@
+---
+title: Filetree
+description: This section provides an overview of Introduction.
+---
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam iste dolorum tempore consectetur explicabo tempora provident quia maxime, molestiae, facilis aperiam et, error illum vel ullam? Quis architecto dolore ullam
+
+<FileTree>
+  <Folder name="src" label="Source Code" defaultOpen={true}>
+    <File name="index.tsx" highlight label="index.tsx" />
+    <Folder name="components" label="Components" defaultOpen={true}>
+      <File name="button.tsx" highlight label="Button Component" />
+      <File name="input.tsx" label="Input Component" />
+    </Folder>
+    <Folder name="pages" label="Pages">
+      <File name="home.tsx" label="Home Page" />
+      <File name="about.tsx" highlight label="About Page" />
+    </Folder>
+  </Folder>
+</FileTree>
