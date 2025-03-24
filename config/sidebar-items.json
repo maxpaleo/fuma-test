@@ -39,87 +39,77 @@
     ]
   },
   {
-    "group": "Files",
+    "group": "Docs",
     "children": [
       {
-        "label": "App",
+        "label": "Markup",
         "items": [
           {
-            "label": "Api",
-            "items": [
-              {
-                "label": "Hello",
-                "items": [
-                  {
-                    "label": "Route",
-                    "href": "#"
-                  }
-                ]
-              },
-              {
-                "label": "Page",
-                "href": "#"
-              },
-              {
-                "label": "Layout",
-                "href": "#"
-              },
-              {
-                "label": "Blog",
-                "items": [
-                  {
-                    "label": "Page",
-                    "href": "#"
-                  }
-                ]
-              }
-            ]
+            "label": "Markup",
+            "href": "/docs/markup"
           },
           {
-            "label": "Components",
+            "label": "Cards",
+            "href": "/docs/markup/cards"
+          },
+          {
+            "label": "Diagrams",
+            "href": "/docs/markup/diagrams"
+          },
+          {
+            "label": "Filetree",
+            "href": "/docs/markup/filetree"
+          },
+          {
+            "label": "Lists",
+            "href": "/docs/markup/lists"
+          },
+          {
+            "label": "Maths",
+            "href": "/docs/markup/maths"
+          },
+          {
+            "label": "Notes",
+            "href": "/docs/markup/notes"
+          },
+          {
+            "label": "Steps",
+            "href": "/docs/markup/steps"
+          },
+          { "label": "Table", "href": "/docs/markup/table" },
+          { "label": "Tabs", "href": "/docs/markup/tabs" }
+        ]
+      },
+      {
+        "label": "Navigation",
+        "items": [{ "label": "Navigation", "href": "/docs/navigation" }]
+      },
+      {
+        "label": "Random",
+        "items": [{ "label": "Random", "href": "/docs/random" }]
+      },
+      {
+        "label": "Structure",
+        "items": [
+          {
+            "label": "Structure",
             "items": [
               {
-                "label": "Ui",
+                "label": "Structure",
+                "href": "/docs/structure"
+              },
+              {
+                "label": "Deeper",
                 "items": [
                   {
-                    "label": "Button",
-                    "href": "#"
+                    "label": "Deeper",
+                    "href": "/docs/structure/deeper"
                   },
                   {
-                    "label": "Card",
-                    "href": "#"
+                    "label": "Even Deeper",
+                    "href": "/docs/structure/deeper/even-deeper"
                   }
                 ]
-              },
-              {
-                "label": "Header",
-                "href": "#"
-              },
-              {
-                "label": "Footer",
-                "href": "#"
-              }
-            ]
-          },
-          {
-            "label": "Lib",
-            "items": [
-              {
-                "label": "Util",
-                "href": "#"
-              }
-            ]
-          },
-          {
-            "label": "Public",
-            "items": [
-              {
-                "label": "Favicon",
-                "href": "#"
-              },
-              {
-                "label": "Vercel",
-                "href": "#"
               }
             ]
           }
