@@ -15,7 +15,7 @@ async function generateSearchIndex() {
     const source = fs.readFileSync(fullPath, "utf8");
     const { data, content } = matter(source);
 
-    const slug = file.replace(/\.mdx?$/, "");
+    const slug = file.replace(/\index.mdx?$/, "");
     const title = data.title || slug;
 
     // Clean the content: remove JSX, MD, code, etc.
@@ -41,7 +41,7 @@ async function generateSearchIndex() {
 
     return {
       title,
-      slug: `/docs/${slug}`,
+      slug: `/${slug}`,
       content: cleanContent.trim(),
     };
   });
