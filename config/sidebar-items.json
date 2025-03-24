@@ -4,7 +4,24 @@
     "children": [
       {
         "label": "Introduction",
-        "href": "/docs/introduction"
+        "items": [
+          {
+            "label": "Introduction",
+            "href": "/docs/introduction"
+          },
+          {
+            "label": "Changelog",
+            "href": "/docs/introduction/changelog"
+          },
+          {
+            "label": "Installation",
+            "href": "/docs/introduction/installation"
+          },
+          {
+            "label": "Setup",
+            "href": "/docs/introduction/setup"
+          }
+        ]
       },
       {
         "label": "Changelog",
